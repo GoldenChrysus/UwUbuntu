@@ -2,8 +2,8 @@
 
 ## TODO
 
-- Whenever you click with mouse, audible UwU plays
+- Mouse clicks will cause an audible UwU to play
   - Clicking faster will increase the lewdness of each UwU
-- BonzaiBuddy equivalent, but waifu who only answers your questions with UwU
+- BonziBuddy equivalent, but waifu who only answers your questions with UwU
 - Web browser called UwU With UwU
   - No other web browser will be supported
