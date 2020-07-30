@@ -1,6 +1,6 @@
 # UwUbuntu
 
-## TODO
+## To-Do List
 
 - Mouse clicks will cause an audible UwU to play
   - Clicking faster will increase the lewdness of each UwU
