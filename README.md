@@ -7,3 +7,4 @@
 - BonziBuddy equivalent, but waifu who only answers your questions with UwU
 - Web browser called UwU With UwU
   - No other web browser will be supported
+- Alias `sudo` as `suwudo`
